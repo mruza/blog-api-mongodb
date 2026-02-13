@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Blog API with MongoDB
 
 A RESTful Blog API built with Express.js and MongoDB, featuring user authentication, authorization, and full CRUD operations for blog posts.
